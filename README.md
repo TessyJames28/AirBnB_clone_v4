@@ -158,7 +158,12 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Tessy James - [Github](https://github.com/TessyJames28) / [Email](tessyjames28@gmail.com)
+Kasimu Samaila - [Github](https://github.com/kassimu21)
 
-Second part of Airbnb: Joann Vuong
+Second part of Airbnb: Joann Vuongi
+
+Fourth part of AirBnB: Tessy James and Kasimu Samaila
+The team will make the project web dynamic using JavaScript and jQuery 
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copy write protection.
