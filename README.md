@@ -165,5 +165,6 @@ Second part of Airbnb: Joann Vuongi
 
 Fourth part of AirBnB: Tessy James and Kasimu Samaila
 The team will make the project web dynamic using JavaScript and jQuery 
+
 ## License
 Public Domain. No copy write protection.
