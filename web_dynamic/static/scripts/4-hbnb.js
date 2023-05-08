@@ -59,7 +59,7 @@ $('document').ready(function () {
 
   // handles DIV#api_status id in the template to add or remove Class based on status response
   const statusId = $('DIV#api_status');
-  $.get('http://127.0.0.1:5001/api/v1/status/', function (response) {
+  $.get('http://0.0.0.0:5001/api/v1/status/', function (response) {
     if (response.status === 'OK') {
       console.log('OK');
       statusId.addClass('available');
@@ -73,7 +73,7 @@ $('document').ready(function () {
   // Task 4 - Handles Places search by recreating the Article verrsion of the template to load with jQuery POST method
   $.ajax({
     type: 'POST',
-  	url: 'http://127.0.0.1:5001/api/v1/places_search/',
+  	url: 'http://0.0.0.0:5001/api/v1/places_search/',
   	data: '{}',
     contentType: 'application/json',
     success: function (response) {
@@ -89,7 +89,7 @@ $('document').ready(function () {
   $('button').click(function() {
     $.ajax({
       type: 'POST',
-      url: 'http://127.0.0.1:5001/api/v1/places_search',
+      url: 'http://0.0.0.0:5001/api/v1/places_search',
       contentType: 'application/json',
       data: JSON.stringify({ amenities: amenitiesIdList }),
       success: function(response) {
